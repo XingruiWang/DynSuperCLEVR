@@ -1,4 +1,4 @@
-# SuperCLEVR Physics
+# DynSuperCLEVR
 
 [![arXiv](https://img.shields.io/badge/arXiv-2406.00622-b31b1b.svg)](https://arxiv.org/abs/2406.00622) ![License](https://img.shields.io/github/license/XingruiWang/SuperCLEVR-Physics)
 
