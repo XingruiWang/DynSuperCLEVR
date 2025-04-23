@@ -1,7 +1,11 @@
 # DynSuperCLEVR
 
-[![arXiv](https://img.shields.io/badge/arXiv-2406.00622-b31b1b.svg)](https://arxiv.org/abs/2406.00622) ![License](https://img.shields.io/github/license/XingruiWang/SuperCLEVR-Physics)
+[![arXiv](https://img.shields.io/badge/arXiv-2406.00622-b31b1b.svg)](https://arxiv.org/abs/2406.00622)  [![Hugging Face](https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface)](http://huggingface.co/datasets/RyanWW/DynSuperCLEVR/)  [![Project Page](https://img.shields.io/badge/Project%20Page-DynSuperCLEVR-0a7aca?logo=globe&logoColor=white)](https://xingruiwang.github.io/projects/DynSuperCLEVR/)
+ ![License](https://img.shields.io/github/license/XingruiWang/SuperCLEVR-Physics)
 
+> **This repository contains the dataset part of the paper:**  
+> **_Compositional 4D Dynamic Scenes Understanding with Physics Priors for Video Question Answering (ICLR 2025)_**  
+> [[Paper link](https://arxiv.org/abs/2406.00622)]
 
 A dynamical 3D scene understanding dataset for Video Question Answering. The scenes are annotated with objects' (1) static properties (**shape**, **color**) and (2) 3D dynamical properties (**3D position**, **velocities**, **external forces**), and (3) physical properties (**mass**, **frictions**, **restitution**); and Collision Event (objects involved, frame). 
 
